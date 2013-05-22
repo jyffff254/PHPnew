@@ -1,0 +1,220 @@
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:01:54
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:01:54
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:01:54
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:01:54
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:28
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:28
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:28
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:28
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:29
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:31
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:31
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:31
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:04:31
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:29
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:30
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:30
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:30
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:30
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:39
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:39
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:39
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:11:39
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:15
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:15
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:15
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:15
+
+数据库不可用：
+
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:53
+
+错误SQL语句：
+SELECT * FROM `p_newsclass` where f_id=0 order by id DESC
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:53
+
+错误SQL语句：
+SELECT * FROM p_config
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:53
+
+错误SQL语句：
+SELECT * FROM `p_newsbase` order by id DESC limit 5
+客户IP:127.0.0.1
+时间 :2013-05-22 06:12:53
+
